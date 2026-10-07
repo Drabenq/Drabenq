@@ -1,62 +1,33 @@
-# 👋 Welcome to my GitHub Profile
+# Hi, I'm Drabenq 👋
 
-I'm **Drabenq**, a passionate Fullstack Developer from Buenos Aires, Argentina. I love building innovative web applications and exploring modern technologies.
+QA Analyst from Buenos Aires, focused on **test automation** and **backend development** with Python. I also make small games with Godot as a hobby.
 
----
+## What I do
 
-## 🚀 What I Do
+- **Manual QA:** test cases, bug reports and test execution with Jira and Chrome DevTools
+- **Test automation:** API and end-to-end tests with pytest, requests and Playwright
+- **Backend:** REST APIs with FastAPI, SQLAlchemy and Docker
+- **CI:** every project runs its tests automatically on GitHub Actions
 
-- 💻 **Web Development** - Building responsive and interactive web applications
-- - 🎨 **Frontend** - Creating beautiful user interfaces with React and modern CSS
-  - - ⚙️ **Backend** - Developing scalable server-side solutions
-    - - 🛠️ **Problem Solving** - Tackling complex challenges with creative solutions
-     
-      - ---
+## Projects
 
-      ## 📚 Featured Projects
+| Project | What it shows | Stack |
+|---------|---------------|-------|
+| [api-testing-framework](https://github.com/Drabenq/api-testing-framework) | API test suite that found 5 bugs, contract testing, daily scheduled runs | Python, pytest, requests, JSON Schema |
+| [e2e-automation-playwright](https://github.com/Drabenq/e2e-automation-playwright) | End-to-end tests with Page Object Model, screenshots and traces on failure | Python, Playwright, pytest |
+| [task-manager-api](https://github.com/Drabenq/task-manager-api) | REST API with a 90% coverage gate and a Docker image tested in CI | FastAPI, SQLAlchemy, pytest, Docker |
+| [chequea-el-celu](https://github.com/Drabenq/chequea-el-celu) | Web app to check a used phone before buying, with auto-evaluated hardware tests | JavaScript, Web APIs |
+| [tienda-ropa-interior](https://github.com/Drabenq/tienda-ropa-interior) | Store catalog managed from Google Sheets, orders via WhatsApp | JavaScript, Google Sheets |
+| [meteor-dodge-godot](https://github.com/Drabenq/meteor-dodge-godot) | Arcade game made as a hobby | Godot 4, GDScript |
 
-      ### [Chequeá el Celu](https://github.com/Drabenq/chequea-el-celu)
-      A web platform to inspect used mobile phones before purchasing. Helping users make informed decisions.
+## Tools
 
-      ### [Tienda de Ropa Interior](https://github.com/Drabenq/tienda-ropa-interior)
-      A modern e-commerce platform for selling intimate apparel with a clean, intuitive interface.
-
-      ### [PixelMMORPG](https://github.com/Drabenq/PixelMMORPG)
-      A pixel-based multiplayer online role-playing game built with modern game development technologies.
-
-      ---
-
-      ## 🛠️ Tech Stack
-
-      **Frontend**: React, JavaScript, HTML5, CSS3, Responsive Design
-      **Backend**: Node.js, Express, RESTful APIs
-      **Tools**: Git, GitHub, VS Code, Figma
-      **Other**: Testing, CI/CD, Database Design
-
-      ---
-
-      ## 📊 GitHub Stats
-
-      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drabenq&theme=dark)
-
-      ---
-
-      ## 🔗 Connect With Me
-
-      - 🌐 **Website**: [drabenq.dev](https://drabenq.dev)
-      - - 💼 **LinkedIn**: [linkedin.com/in/drabenq](https://linkedin.com/in/drabenq)
-        - - 📧 **Email**: [contact@drabenq.dev](mailto:contact@drabenq.dev)
-          - - 🐦 **Twitter**: [@drabenq](https://twitter.com/drabenq)
-           
-            - ---
-
-            ## 💡 Fun Facts
-
-            - 🎮 I love building game projects and exploring creative coding
-            - - 🌱 Always learning and staying updated with latest web technologies
-              - - 🤝 Open to collaborating on interesting projects
-                - - ☕ Coffee-driven developer
-                 
-                  - ---
-
-                  **Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate!** 🚀
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
