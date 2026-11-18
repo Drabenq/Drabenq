@@ -9,6 +9,7 @@ tengo un servidor Linux propio donde corren mis automatizaciones.
 | Proyecto | Qué resuelve | Stack |
 |----------|--------------|-------|
 | [postulador](https://github.com/Drabenq/postulador) | Bot que busca avisos en LinkedIn, Computrabajo, Bumeran y ZonaJobs, adapta el CV a cada uno y completa la postulación solo. Corre 24/7 en mi servidor. **Lo uso todos los días.** | Python, Playwright, Jinja2, systemd |
+| [prospector](https://github.com/Drabenq/prospector) | Busca en Google Maps negocios sin página web, investiga su Instagram, saca los colores de su logo y les arma una vista previa de su web. Me deja la lista del día con el mensaje listo. Corre cada hora en mi servidor. | Python, API de Google Places, Playwright, Pillow, SQLite |
 | [conciliacion-cobranzas](https://github.com/Drabenq/conciliacion-cobranzas) | Lee facturas en PDF (reglas + IA), las carga en una base SQL y las cruza con el extracto del banco. Devuelve un Excel con lo conciliado y lo que hay que revisar. | Python, pandas, SQL, API de Claude, openpyxl |
 
 ## Testing y backend
